@@ -1,0 +1,24 @@
+# Ignore node modules
+node_modules/
+dmrc-rfp-backend/node_modules/
+metro_/node_modules/
+
+# Ignore environment
+.env
+
+# Build files
+build/
+dist/
+
+# Uploads (if not needed)
+uploads/
+
+# Logs
+*.log
+
+# OS
+.DS_Store
+Thumbs.db
+
+# IDE
+.vscode/
